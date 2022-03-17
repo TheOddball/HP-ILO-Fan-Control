@@ -35,10 +35,10 @@ Currently Linux Only Essxi Support is in the works!
 
 # Tested Servers:
 ## 1U Servers:
-DL380p Gen8
-DL380p Gen9
-## 2U Servers:
 DL360p Gen8
+## 2U Servers:
+DL380p Gen8
+DL380 Gen9
 DL80 Gen9 - Tested by @rootless4real
 
 # Notes
